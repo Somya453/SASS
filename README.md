@@ -1,2 +1,2 @@
-# SSCS
-Styling with SCSS
+# SASS
+Styling with SASS
